@@ -51,7 +51,10 @@
 
   After clicking the "Open Button", the Learn IDE should open and prompt you to login.
 
-  Once you login to the IDE, come back to your web browser and continue reading this guide.
+  Once you login to the IDE, come back to yo
+  
+  
+  ur web browser and continue reading this guide.
 
   <img src="//learn-co-videos.s3.amazonaws.com/learn-co-orientation/learn-login.png" style="display: block; border: 1px solid #000"/>
   
